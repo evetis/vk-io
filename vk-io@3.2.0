@@ -1,0 +1,14 @@
+@@ -31,13 +31,13 @@ VK-IO - Это мощный [Node.js](https://nodejs.org) модуль кото
+### NPM
+Установка через стандартный менеджер пакетов NPM
+```shell
+npm install vk-io --save
+npm install vk-io@3.2.0 --save
+```
+ ### Yarn
+Установка через пакетный менеджер Yarn
+```shell
+yarn add vk-io
+yarn add vk-io@3.2.0
+```
+ ## Инициализация
